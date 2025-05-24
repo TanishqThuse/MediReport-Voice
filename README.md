@@ -25,6 +25,13 @@ MediReport-Voice is a desktop application that enables doctors to create medical
 
 ---
 
+### Screenshot
+![Screenshot (30)](https://github.com/user-attachments/assets/c576b7ba-377c-4f8d-9ad5-db6dae723fa4)
+
+#### Template and Voice Feature
+![image](https://github.com/user-attachments/assets/d12619b0-5ad8-4563-9e93-6618967314ee)
+
+
 ## Getting Started
 
 ### Clone the repository  
